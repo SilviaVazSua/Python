@@ -1,0 +1,10 @@
+EXERCISE 5
+
+Compare the lexical diversity scores for humor and romance fiction in 1.1. Which genre is more lexically diverse?
+
+
+Genre	Tokens	Types	Lexical diversity
+humor	21695	5017	0.231
+romance	70022	8452	0.121
+
+Answer: The humor genre is more lexical rich than the romance. While in humor each word is used 4 times on average, in romance each word is used 20 times on average. Let's make fun our love, please! If not, we're very repetitive! :D
